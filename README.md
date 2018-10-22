@@ -1,2 +1,2 @@
 # MKS65C-sieve
-Finding the nth random number
+Finding the nth prime number
